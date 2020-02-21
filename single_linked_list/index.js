@@ -11,6 +11,6 @@ list.insertAt(3, 3);
 
 list.deleteFirstNode();
 list.deleteLastNodde();
-list.deleteAt(1);
+list.deleteAt(2);
 
 console.log(list.logList());

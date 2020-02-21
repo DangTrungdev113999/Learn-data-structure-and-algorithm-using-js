@@ -114,17 +114,6 @@ class LinkedList {
     previous.next = previous.next.next;
     return this.head;
   }
-
-  // {
-  // data: 1,
-  //   next: {
-  //   data: 2,
-  //     next: {
-  //     data: null
-  //     }
-  //   }
-  // }
-
   deleteList() {
     this.head = null;
   }
