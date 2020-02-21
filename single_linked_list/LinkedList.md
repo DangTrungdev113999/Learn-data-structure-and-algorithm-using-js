@@ -33,4 +33,4 @@ A singly linked list is collection of nodes wherein each node has 2 parts: data 
 
 ....
 
-Nguồn: [https://codeburst.io/linked-lists-in-javascript-es6-code-part-1-6dd349c3dcc3](https://codeburst.io/linked-lists-in-javascript-es6-code-part-1-6dd349c3dcc3):
+Source: [https://codeburst.io/linked-lists-in-javascript-es6-code-part-1-6dd349c3dcc3](https://codeburst.io/linked-lists-in-javascript-es6-code-part-1-6dd349c3dcc3):
