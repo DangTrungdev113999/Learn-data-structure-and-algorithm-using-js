@@ -31,10 +31,11 @@ class Stack {
 
   pop() {
     if (!this.isEmpty()) {
-      let data = this.storage[this.currentSize];
+      let result = this.storage[this.currentSize];
+      // delete this.storage[this.currentSize]
       this.currentSize--;
       this.storage.length = this.currentSize === -1 ? 0 : this.currentSize + 1;
-      return data;
+      return result;
     }
 
     return "Stack is empty";
