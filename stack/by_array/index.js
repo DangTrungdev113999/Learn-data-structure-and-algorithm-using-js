@@ -40,7 +40,7 @@ class Stack {
 
     return "Stack is empty";
   }
-
+  forEach
   size() {
     return this.currentSize;
   }
